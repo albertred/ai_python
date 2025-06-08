@@ -36,4 +36,5 @@ ENV/
 .DS_Store
 .env
 .env.local
-*.log 
+*.log
+$HOME/ 

@@ -19,3 +19,4 @@ if transcript.status == aai.TranscriptStatus.error:
     exit(1)
 
 print(f" \nFull Transcript: \n\n{transcript.text}")
+     
